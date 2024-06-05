@@ -1,1 +1,36 @@
-   
+   /* header */
+   header{
+    background-color: #2A9D8F;
+    width: 1440px;
+    margin: auto;
+    padding: 38px 0 38px 130px;
+   }
+   .header_logo_link{
+    display: inline-block;
+    vertical-align: middle;
+    width: 46px;
+    height: 46px;
+   }
+   .header_nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 697px;
+   }
+   .header_img{
+    width: 100%;
+    height: 100%;
+}
+   .header_li{
+    display: inline-block;
+   }
+   .header_li_link{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    font-family: "Nerko One", cursive;
+   }
+   .middle_li{
+    margin-inline: 80px;
+   }
+
